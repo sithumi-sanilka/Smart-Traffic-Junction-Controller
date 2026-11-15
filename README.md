@@ -39,4 +39,4 @@ The hardware circuit was designed using KiCad and built around the Arduino Uno (
 
 Circuit Schematic
 
-
+![Smart Traffic Junction Circuit Diagram](hardware/image.png)
