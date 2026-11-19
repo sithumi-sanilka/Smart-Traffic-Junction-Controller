@@ -1,9 +1,12 @@
 ## Project Team
 
+
+
 This project was developed collaboratively as part of the Embedded Systems Design module at SLIIT.
 
 - **Sithumi** – [GitHub Profile](https://github.com/sithumi-sanilka)
 - **Uvin** – [GitHub Profile](https://github.com/uvin-kaveesh)
+
 
 ## Project Overview
 
