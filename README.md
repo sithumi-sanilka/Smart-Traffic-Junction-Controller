@@ -1,3 +1,10 @@
+## Project Team
+
+This project was developed collaboratively as part of the Embedded Systems Design module at SLIIT.
+
+- **Sithumi** – [GitHub Profile](https://github.com/sithumi-sanilka)
+- **Uvin** – [GitHub Profile](https://github.com/uvin-kaveesh)
+
 ## Project Overview
 
 The **Smart Traffic Junction Controller** is a collaborative project developed using an **Arduino Uno and AVR Assembly language**. It automatically controls traffic lights at a four-way junction, allows pedestrians to cross safely using a push-button and countdown display, and switches to flashing yellow lights at night using an LDR sensor.
